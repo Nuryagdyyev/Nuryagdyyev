@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Nuryagdyyev 👋
 
-<!--
-**Nuryagdyyev/Nuryagdyyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇹🇲 Originally from Turkmenistan, currently based in Russia
 
-Here are some ideas to get you started:
+Self-taught developer, learning through building real projects rather than just tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently building:** Telegram bots — content automation, referral systems, PDF delivery, using `aiogram`, `DeepSeek API`, `SQLite`, `APScheduler`
+- 🌱 **Currently learning:** Python (advanced topics), Math foundations for Machine Learning
+- 🎯 **Long-term goal:** Building a Turkmen-language AI model to serve the Central Asian market
+- 🛠️ **Tools & stack:** Python · aiogram · SQLite · Linux · Hetzner VPS · Git
+- 💡 **Philosophy:** Deep understanding over surface coverage — I try things myself first, then use AI to refine
+
+📫 Open to freelance work and collaboration on Python / bot development projects.
