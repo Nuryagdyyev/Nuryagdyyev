@@ -6,7 +6,6 @@ Self-taught developer, learning through building real projects rather than just 
 
 - 🔭 **Currently building:** Telegram bots — content automation, referral systems, PDF delivery, using `aiogram`, `DeepSeek API`, `SQLite`, `APScheduler`
 - 🌱 **Currently learning:** Python (advanced topics), Math foundations for Machine Learning
-- 🎯 **Long-term goal:** Building a Turkmen-language AI model to serve the Central Asian market
 - 🛠️ **Tools & stack:** Python · aiogram · SQLite · Linux · Hetzner VPS · Git
 - 💡 **Philosophy:** Deep understanding over surface coverage — I try things myself first, then use AI to refine
 
